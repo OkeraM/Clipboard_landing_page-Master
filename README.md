@@ -17,7 +17,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/OkeraM/Clipboard_landing_page-Master)
 - Live Site URL: [Add live site URL here](https://okeram.github.io/Clipboard_landing_page-Master/)
 
 ## My process
@@ -49,8 +49,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -85,26 +83,16 @@ To see how you can add code snippets, see below:
 
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I would like to learn a lot more about "Grids" and eventually learn to produce the same amount of code with less code. For example I had a issue aligning text to the left side in the footer, so what I did was just add width to grid-item-1 and grid-item-5. I also did this with a couple other elemements such as <p> tags. I don't want to do this again, I'm sure there is a easier way.
 
 ### Useful resources
 
 - [Grids](https://www.youtube.com/results?search_query=grids+html+and+css) - This helped me to learn grids. I really liked this video and will use it going forward.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [@OkeraM](https://www.frontendmentor.io/profile/OkeraM)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
