@@ -32,17 +32,17 @@ Users should be able to:
 
 ### Screenshot
 
-(./<img width="1426" alt="Screen Shot 2022-06-06 at 6 08 35 PM" src="https://user-images.githubusercontent.com/76667866/172259319-2956aa57-4b49-424f-8c7d-452585fa229b.png">)
+<img width="1426" alt="Screen Shot 2022-06-06 at 6 08 35 PM" src="https://user-images.githubusercontent.com/76667866/172259319-2956aa57-4b49-424f-8c7d-452585fa229b.png">
 
+<img width="1426" alt="Screen Shot 2022-06-06 at 6 09 01 PM" src="https://user-images.githubusercontent.com/76667866/172259625-261e1653-ced3-4497-bd71-67e9990efdc4.png">
 
+<img width="1426" alt="Screen Shot 2022-06-06 at 6 09 36 PM" src="https://user-images.githubusercontent.com/76667866/172259651-695352f3-d5e6-4d3d-839b-9da0d71331fe.png">
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+<img width="1426" alt="Screen Shot 2022-06-06 at 6 10 15 PM" src="https://user-images.githubusercontent.com/76667866/172259686-5e0aea27-2a51-46da-a8b9-1156fbd68c63.png">
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+<img width="1424" alt="Screen Shot 2022-06-06 at 6 10 37 PM" src="https://user-images.githubusercontent.com/76667866/172259711-6dba1a08-0de7-49c7-a9b3-ff3e45dd8b0f.png">
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Screenshot_Landingpage](https://user-images.githubusercontent.com/76667866/172261058-77eff168-6611-4cf0-9a93-babf64cf11fb.png)
 
 ### Links
 
