@@ -14,7 +14,6 @@ header {
     padding: 0;
     padding-top: 50px;
     text-align: center;
-    /* opacity: 0.7; */
 
 }
 
@@ -31,7 +30,6 @@ header {
 
 h1 {
     font-family: 'Outfit', sans-serif;
-    /* padding: 10px; */
     opacity: 0.7;
     font-size: 40px;
 }
@@ -54,7 +52,6 @@ h3 {
     font-family: 'Outfit', sans-serif;
     opacity: 0.5;
     padding: 10px;
-    /* word-wrap: break-word; */
     width: 650px;
     height: 100px;
     display: inline-block;
@@ -65,47 +62,17 @@ h3 {
 
 } 
 
-/* .para_1_container {
-
-     text-align: center;
-     margin: 0 auto;
-     background-color: red;
-
-} */
 
 p {
     font-family: 'Outfit', sans-serif;
     opacity: 0.5;
     padding: 10px;
-    /* word-wrap: break-word;
-    overflow-wrap: break-word; */
     inline-size: 400px;
-    width: 630px;
+    width: 650px;
     height: 100px;
     line-height: 30px;
     font-size: 18px;
-    /* background-color: red; */
 }
-
-/* .btn.btn-round {
-    border-radius: 40px;
-}
-
-.btn.btn-secondary {
-    color: #fff;
-    border-color: #8bbabb;
-    background: hsl(171, 66%, 44%); 
-}
-    
-.btn {
-    padding: 12px 16px;
-    cursor: pointer;
-    border-width: 1px;
-    border-radius: 5px;
-    font-size: 14px;
-    font-weight: 500; 
-} */
-
 
 .container {
 
@@ -128,11 +95,6 @@ a {
     font-family: 'Outfit', sans-serif;
     
 }
-
-/* * {
-    margin: 0;
-    padding: 0;
-  } */
 
   .buttons_ {
 
@@ -202,8 +164,6 @@ a {
 
 .computer_1 {
 
-    /*position: absolute;
-    left: 210px; */
     position: relative;
     left: 225px;
 
@@ -225,8 +185,6 @@ a {
     text-align: center;
     align-items: center;
     height: 300px;
-    /* width: 1400px; */
-
 }
 
 .writing_4_1 {
@@ -257,7 +215,7 @@ a {
 
 list-style-type: none;
 display: flex;
-margin: auto; /* helps centers */
+margin: auto;
 height: 30px;
 align-items: center; 
 justify-content: center; 
@@ -273,62 +231,24 @@ padding-bottom: 140px;
 
 .buttons_1 > * {
 
-margin-left: var(--gap); /* javascript, if someone javascript is off, this won't work */
+margin-left: var(--gap); 
 
 }
 
 .writing_5 {
 
-    width: 500px;
+    width: 670px;
     height: 200px;
     text-align: center;
     margin: 0 auto;
     
 }
 
-/* footer {
-
-    box-sizing: border-box;
-
-} */
-
 footer {
 
     background-color:  lightgray;
     
 }
-
-
-/* .footer {
-
-    width: 80%;
-    height: 40vh;
-    background-color:  lightgray;
-    color: darkgray;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 0 auto;
-
-
-} */
-
-/* .footer-heading {
-
-    display: flex;
-    flex-direction: column;
-    margin-right: 4rem;
-
-} */
-
-/* .footer-heading a {
-
-    color: darkgray;
-    text-decoration: none;
-    margin-bottom: 0.5rem;
-
-} */
-
 
  .footer_1_1 {
 
@@ -367,7 +287,6 @@ footer {
 
 .footer {
     background-color: lightgray;
-    /* height: 150px; */
     height: 150px;
 }
 
@@ -381,7 +300,6 @@ footer {
 
     width: 500px;
     height: 200px;
-    /* background-color: blueviolet; */
     float: right; 
     position: relative;
     bottom: 200px;
@@ -402,13 +320,6 @@ footer {
     position: relative;
     left: 130px;
     bottom: 120px;
-    
-}
-
-
-.grid-item {
-
-    /* background-color: red; */
     
 }
 
