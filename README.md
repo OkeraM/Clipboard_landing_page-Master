@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/OkeraM/Clipboard_landing_page-Master)](https://github.com/OkeraM/Clipboard_landing_page-Master)
-- Live Site URL: [(https://github.com/OkeraM/Clipboard_landing_page-Master)](https://okeram.github.io/Clipboard_landing_page-Master/)
+- Live Site URL: [(https://okeram.github.io/Clipboard_landing_page-Master)](https://okeram.github.io/Clipboard_landing_page-Master/)
 
 ## My process
 
