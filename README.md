@@ -85,7 +85,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I would like to learn a lot more about "Grids" and eventually learn to produce the same amount of code with less code. For example I had a issue aligning text to the left side in the footer, so what I did was just add width to grid-item-1 and grid-item-5. I also did this with a couple other elemements such as <p> tags. I don't want to do this again, I'm sure there is a easier way.
+I would like to learn a lot more about "Grids" and eventually learn to produce the same amount of code with less code. For example I had a issue aligning text to the left side in the footer, so what I did was just add width to grid-item-1 and grid-item-5. I also did this with a couple other elemements such as paragraph tags. I don't want to do this again, I'm sure there is a easier way.
 
 ### Useful resources
 
